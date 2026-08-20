@@ -101,11 +101,10 @@ An npm package built to provide cricket score prediction functionality for JavaS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasurya1235&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya1235&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Jayasurya1235&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
+    alt="Jaya Surya's GitHub Stats"
+  />
 </p>
 
 ---
@@ -113,7 +112,10 @@ An npm package built to provide cricket score prediction functionality for JavaS
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya1235&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya1235&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    alt="Jaya Surya's Most Used Languages"
+  />
 </p>
 
 ---
