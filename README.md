@@ -110,9 +110,39 @@ An npm package built to provide cricket score prediction functionality for JavaS
 
 ---
 
-📈 GitHub Profile Summary
+## 📈 GitHub Profile Summary
 
-<p align="center"> <a href="https://github.com/Jayasurya1235"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayasurya1235&theme=github_dark" width="95%" alt="GitHub Profile Summary"/> </a> </p>
+<p align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayasurya1235&theme=github_dark" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayasurya1235&theme=github_dark&utcOffset=5.5" 
+    width="48%" 
+    alt="Productive Time"
+  />
+
+</p>
+
+<p align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayasurya1235&theme=github_dark" 
+    width="48%" 
+    alt="Repositories Per Language"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayasurya1235&theme=github_dark" 
+    width="48%" 
+    alt="Most Commit Language"
+  />
+
+</p>
 
 ## 🌱 Currently Learning
 
