@@ -100,12 +100,7 @@ An npm package built to provide cricket score prediction functionality for JavaS
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jayasurya1235&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
-    alt="Jaya Surya's GitHub Stats"
-  />
-</p>
+<p align="center"> <a href="https://github.com/Jayasurya1235"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasurya1235&theme=github-compact&hide_border=true" width="95%" alt="Jaya Surya's GitHub Activity Graph"/> </a> </p>
 
 ---
 
