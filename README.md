@@ -1,4 +1,4 @@
-# Hi, I'm Jaya Surya 👋
+# Hi, I'm Jayasurya 👋
 
 ### Frontend Developer | Full-Stack Developer
 
