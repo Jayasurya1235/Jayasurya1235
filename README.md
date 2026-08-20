@@ -106,12 +106,7 @@ An npm package built to provide cricket score prediction functionality for JavaS
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasurya1235&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-    alt="Jaya Surya's Most Used Languages"
-  />
-</p>
+<p align="center"> <a href="https://github.com/Jayasurya1235"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayasurya1235&theme=github_dark" width="45%" alt="Repositories per language"/> </a> <a href="https://github.com/Jayasurya1235"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayasurya1235&theme=github_dark" width="45%" alt="Most committed languages"/> </a> </p>
 
 ---
 
