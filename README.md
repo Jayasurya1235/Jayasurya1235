@@ -110,6 +110,10 @@ An npm package built to provide cricket score prediction functionality for JavaS
 
 ---
 
+📈 GitHub Profile Summary
+
+<p align="center"> <a href="https://github.com/Jayasurya1235"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayasurya1235&theme=github_dark" width="95%" alt="GitHub Profile Summary"/> </a> </p>
+
 ## 🌱 Currently Learning
 
 - TypeScript
